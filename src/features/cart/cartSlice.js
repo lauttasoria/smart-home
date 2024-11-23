@@ -8,7 +8,7 @@ export const cartSlice = createSlice({
             cartItems: [],
             user: "demo",
             total: null,
-            cartLenght:0,
+            cartLength:0,
             updateAt: Date.now().toLocaleString() //unix timestamp
         }
     },
@@ -35,9 +35,9 @@ export const cartSlice = createSlice({
             }
         },
         removeItem: (state,action)=>{
-            state.value.cartItems = state.value.cartItems.filter(item=item.id!==action.payload)
+            state.value.cartItems = state.value.cartItems.filter(item => item.id !== action.payload);
             state.value.total = calculate_total_price(state.value.cartItems)
-            state.value.cartLenght -= 1
+            state.value.cartLength -= 1
 
         },
         clearCart: (state) => {
