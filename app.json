@@ -3,7 +3,6 @@
     "name": "smart-home",
     "slug": "smart-home",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -18,10 +17,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lautarosoria.smarthome"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6adb3bf1-649f-40ef-8ebf-428aed90ecd6"
+      }
+    },
+    "owner": "lautarosoria"
   }
 }

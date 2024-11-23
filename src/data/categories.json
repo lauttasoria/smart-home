@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title":"Iluminacion",
+        "image":"https://i.postimg.cc/VLjwcFgm/9320901f-014c-4006-b4a0-5fc43ba57a06.webp"
+    },
+    {
+        "id":2,
+        "title":"Seguridad",
+        "image":"https://i.postimg.cc/MK8ktQS4/f26a7847-3205-431d-976a-66f4d16110e1.webp"
+    },
+    {
+        "id":3,
+        "title":"Climatizacion",
+        "image":"https://i.postimg.cc/x8nRNYws/753e79fd-d407-44d3-8211-84b3cf22262a.webp"
+    },
+    {
+        "id":4,
+        "title":"Asistentes de Voz",
+        "image":"https://i.postimg.cc/L60t2z8Q/pexels-photo-4893862.jpg"
+    },
+    {
+        "id":5,
+        "title":"Entretenimiento",
+        "image":"https://i.postimg.cc/KvKK7CmQ/D-NQ-NP-762437-MLA76152524579-052024-O.webp"
+    },
+    {
+        "id":6,
+        "title":"Hubs y Controladores",
+        "image":"https://i.postimg.cc/zGKV6Wbg/images.jpg"
+    },
+    {
+        "id":7,
+        "title":"Accesorios",
+        "image":"https://i.postimg.cc/jjhQVBwP/cable-JSAUX.webp"
+    },
+    {
+        "id":8,
+        "title":"Control de Energía",
+        "image":"https://i.postimg.cc/XJ7Knxdh/05-productos-2.png"
+    }
+]

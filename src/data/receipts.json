@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "userId": 2,
+        "createdAt": 1728843630000,
+        "items": [
+            {
+                "id": 15,
+                "title": "Humidificador con Control de Humedad Automático",
+                "shortDescription": "Mantén el nivel de humedad ideal en tu hogar de forma sencilla.",
+                "longDescription": "Este humidificador cuenta con un sensor integrado que ajusta automáticamente el nivel de humedad. Ideal para mejorar la calidad del aire en espacios cerrados, ofrece un funcionamiento silencioso y eficiente.",
+                "price": 6000,
+                "stock": 120,
+                "brand": "Levoit",
+                "category": "climatizacion",
+                "discount": 0,
+                "tags": [
+                    "humedad",
+                    "smart",
+                    "automático"
+                ],
+                "mainImage": "https://i.postimg.cc/0y0PHSgv/resize-1.webp",
+                "quantity": 2
+            },
+            {
+                "id": 16,
+                "title": "Altavoz Inteligente con Alexa Integrado",
+                "shortDescription": "Controla tus dispositivos inteligentes con solo tu voz.",
+                "longDescription": "Este altavoz inteligente con Alexa integrado te permite controlar luces, termostatos y mucho más mediante comandos de voz. Disfruta de una experiencia de audio premium y un asistente virtual siempre a tu disposición.",
+                "price": 7500,
+                "stock": 100,
+                "brand": "Amazon Echo",
+                "category": "asistente de voz",
+                "discount": 10,
+                "tags": [
+                    "alexa",
+                    "smart",
+                    "audio"
+                ],
+                "mainImage": "https://i.postimg.cc/s2sbBHNd/1920-1080-336043.jpg",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "createdAt": 1728843630000,
+        "items": [
+            {
+                "id": 22,
+                "title": "Proyector 4K Ultra HD",
+                "shortDescription": "Lleva la experiencia del cine a tu hogar con este proyector 4K.",
+                "longDescription": "Este proyector 4K Ultra HD ofrece imágenes nítidas y brillantes, perfecto para convertir cualquier pared en una pantalla de cine. Compatible con dispositivos de streaming y consolas de juegos, incluye control remoto y conectividad Wi-Fi.",
+                "price": 120000,
+                "stock": 25,
+                "brand": "Epson",
+                "category": "entretenimiento",
+                "discount": 5,
+                "tags": [
+                    "cine",
+                    "4k",
+                    "wifi"
+                ],
+                "mainImage": "https://i.postimg.cc/9Mv6fX31/D-NQ-NP-2-X-690532-MLU76022956274-052024-F.webp",
+                "quantity": 1
+            },
+            {
+                "id": 23,
+                "title": "Consola de Videojuegos Xbox Series X",
+                "shortDescription": "Disfruta de la nueva generación de videojuegos con gráficos sorprendentes.",
+                "longDescription": "La Xbox Series X ofrece una experiencia de juego inigualable con gráficos 4K, tiempos de carga rápidos y una amplia variedad de títulos. Ideal para jugadores que buscan lo último en tecnología y rendimiento.",
+                "price": 130000,
+                "stock": 30,
+                "brand": "Microsoft",
+                "category": "entretenimiento",
+                "discount": 0,
+                "tags": [
+                    "gaming",
+                    "4k",
+                    "next-gen"
+                ],
+                "mainImage": "https://i.postimg.cc/nct8bLGh/D-NQ-NP-2-X-989929-MLU75813976098-042024-F.webp",
+                "quantity": 2
+            }
+        ]
+    }
+]

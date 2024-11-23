@@ -1,0 +1,30 @@
+[
+    {
+        "id": 15,
+        "title": "Humidificador con Control de Humedad Automático",
+        "shortDescription": "Mantén el nivel de humedad ideal en tu hogar de forma sencilla.",
+        "longDescription": "Este humidificador cuenta con un sensor integrado que ajusta automáticamente el nivel de humedad. Ideal para mejorar la calidad del aire en espacios cerrados, ofrece un funcionamiento silencioso y eficiente.",
+        "price": 6000,
+        "stock": 120,
+        "brand": "Levoit",
+        "category": "climatizacion",
+        "discount": 0,
+        "tags": ["humedad", "smart", "automático"],
+        "mainImage": "https://i.postimg.cc/0y0PHSgv/resize-1.webp",
+        "quantity": 2
+      },
+      {
+        "id": 16,
+        "title": "Altavoz Inteligente con Alexa Integrado",
+        "shortDescription": "Controla tus dispositivos inteligentes con solo tu voz.",
+        "longDescription": "Este altavoz inteligente con Alexa integrado te permite controlar luces, termostatos y mucho más mediante comandos de voz. Disfruta de una experiencia de audio premium y un asistente virtual siempre a tu disposición.",
+        "price": 7500,
+        "stock": 100,
+        "brand": "Amazon Echo",
+        "category": "Asistentes de Voz",
+        "discount": 10,
+        "tags": ["alexa", "smart", "audio"],
+        "mainImage": "https://i.postimg.cc/s2sbBHNd/1920-1080-336043.jpg",
+        "quantity": 1
+      }
+]
